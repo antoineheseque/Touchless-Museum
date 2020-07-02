@@ -525,6 +525,7 @@
               <e p="GameState.cs" t="Include" />
             </e>
             <e p="GameManager.cs" t="Include" />
+            <e p="HandPalmDetection.cs" t="Include" />
             <e p="HandsDetection.cs" t="Include" />
             <e p="LoadingText.cs" t="Include" />
             <e p="SceneLoader.cs" t="Include" />

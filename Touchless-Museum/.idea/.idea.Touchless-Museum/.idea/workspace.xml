@@ -20,18 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c4beaa9-32d7-4b3c-b91f-f42478eed120" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/HandPalmDetection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/HandPalmDetection.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Cinemachine/MainCamera Animator.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Cinemachine/MainCamera Animator.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/LightingData.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/ReflectionProbe-0.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/ReflectionProbe-0.exr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Statues.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/LightingData.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/ReflectionProbe-0.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/ReflectionProbe-0.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scripts/GameManager.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/SceneLoader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scripts/SceneLoader.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/SwitchSceneButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scripts/SwitchSceneButton.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,10 +42,12 @@
     <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/Enums/GameState.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/TimeChecker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/HandPalmDetection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/DontDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Core/Scripts/Geometry/Collision.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/HandsDetection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Core/Scripts/Utils/EditorResources.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Scripts/SimpleFacingCameraCallbacks.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/SwitchSceneButton.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/TutorialVideo.cs" root0="FORCE_HIGHLIGHTING" />
@@ -76,6 +74,7 @@
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/SwitchSceneButton.cs" />
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/SceneLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Project/Scripts/HandPalmDetection.cs" />
       </list>
     </option>
   </component>
@@ -124,6 +123,7 @@
       <workItem from="1593702512541" duration="77000" />
       <workItem from="1593703272518" duration="2180000" />
       <workItem from="1593709876757" duration="1516000" />
+      <workItem from="1593715320710" duration="1961000" />
     </task>
     <servers />
   </component>
