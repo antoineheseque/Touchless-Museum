@@ -27338,7 +27338,7 @@ MonoBehaviour:
   _graspingEnabled: 1
   _leapProvider: {fileID: 1328073212}
   _handDataMode: 1
-  enabledPrimaryHoverFingertips: 0101010000
+  enabledPrimaryHoverFingertips: 0101000000
   headTransform: {fileID: 0}
 --- !u!4 &608635849
 Transform:
@@ -28664,7 +28664,7 @@ MonoBehaviour:
     _values:
     - {fileID: 1645584695}
     - {fileID: 608635848}
-  hoverActivationRadius: 0.2
+  hoverActivationRadius: 0.15
   touchActivationRadius: 0.075
   multiGraspHoldingMode: 0
   _autoGenerateLayers: 1
@@ -49852,7 +49852,7 @@ MonoBehaviour:
   _graspingEnabled: 1
   _leapProvider: {fileID: 1328073212}
   _handDataMode: 0
-  enabledPrimaryHoverFingertips: 0101010000
+  enabledPrimaryHoverFingertips: 0101000000
   headTransform: {fileID: 0}
 --- !u!1 &1657167429
 GameObject:

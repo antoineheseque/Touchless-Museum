@@ -28,6 +28,7 @@ public class SceneLoader : MonoBehaviour
 
     public static void LoadScene(string sceneName)
     {
+        GameManager.ChangeState(GameState.Loading);
         _instance.StartCoroutine(_instance.LoadSceneCoroutine(sceneName));
     }
 
@@ -43,7 +44,7 @@ public class SceneLoader : MonoBehaviour
         sceneAsync.allowSceneActivation = false;
         
         yield return new WaitForSeconds(FADE_TIME);
-        
+
         sceneAsync.allowSceneActivation = true;
     }
 }

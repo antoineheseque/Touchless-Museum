@@ -20,78 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c4beaa9-32d7-4b3c-b91f-f42478eed120" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Project/2D/UI.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/2D/UI/Loading.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/2D/UI/Loading.png.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/2D/Videos.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/2D/Videos/Tutorial.mp4" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/2D/Videos/Tutorial.mp4.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/2D/Videos/Tutorial.renderTexture" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/2D/Videos/Tutorial.renderTexture.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Cinemachine.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Cinemachine/Main CameraTimeline.playable" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Cinemachine/Main CameraTimeline.playable.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Cinemachine/MainCamera Animator.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Cinemachine/MainCamera Animator.controller.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main/LightingData.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main/LightingData.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main/ReflectionProbe-0.exr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main/ReflectionProbe-0.exr.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/LightingData.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/LightingData.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/ReflectionProbe-0.exr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/ReflectionProbe-0.exr.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues.unity" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues.unity.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/LightingData.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/LightingData.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/ReflectionProbe-0.exr" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/ReflectionProbe-0.exr.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/DontDestroy.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Enums/GameState.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Enums/GameState.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/GameManager.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/HandsDetection.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/HandsDetection.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/LoadingText.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/LoadingText.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/SceneLoader.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/SceneLoader.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/TimeChecker.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/TutorialVideo.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/UI.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/UI/Alert.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/UI/Alert/Alert.anim" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/UI/Alert/Alert.anim.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/UI/Alert/Alert.controller" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/UI/Alert/Alert.controller.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Materials/Environment/Screen.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Materials/Environment/Screen.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Materials/Environment/ScreenTexture.renderTexture" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Materials/Environment/ScreenTexture.renderTexture.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Application.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Application.unity" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Application.unity.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Application/LightingData.asset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Application/LightingData.asset.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Application/ReflectionProbe-0.exr" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Application/ReflectionProbe-0.exr.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Cinemachine/MainCamera Animator.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Cinemachine/MainCamera Animator.controller" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/LightingData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/ReflectionProbe-0.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/ReflectionProbe-0.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Statues.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/LightingData.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/ReflectionProbe-0.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/ReflectionProbe-0.exr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scripts/GameManager.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/SceneLoader.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scripts/SceneLoader.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/SwitchSceneButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scripts/SwitchSceneButton.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Fonts &amp; Materials/LiberationSans SDF - Fallback.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -127,15 +67,15 @@
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/Instance.cs" />
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/Enums/GameStates.cs" />
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/Enums/GameState.cs" />
-        <option value="$PROJECT_DIR$/Assets/Project/Scripts/SwitchSceneButton.cs" />
         <option value="$PROJECT_DIR$/Assets/Plugins/LeapMotion/Core/Scripts/Hands/HandEnableDisable.cs" />
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/TutorialVideo.cs" />
-        <option value="$PROJECT_DIR$/Assets/Project/Scripts/GameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/TimeChecker.cs" />
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/HandsDetection.cs" />
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/DontDestroy.cs" />
-        <option value="$PROJECT_DIR$/Assets/Project/Scripts/SceneLoader.cs" />
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/LoadingText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Project/Scripts/SwitchSceneButton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Project/Scripts/SceneLoader.cs" />
+        <option value="$PROJECT_DIR$/Assets/Project/Scripts/GameManager.cs" />
       </list>
     </option>
   </component>
@@ -183,6 +123,7 @@
       <workItem from="1593701930346" duration="391000" />
       <workItem from="1593702512541" duration="77000" />
       <workItem from="1593703272518" duration="2180000" />
+      <workItem from="1593709876757" duration="1516000" />
     </task>
     <servers />
   </component>

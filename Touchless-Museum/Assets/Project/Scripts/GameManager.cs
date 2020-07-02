@@ -23,9 +23,20 @@ public class GameManager : MonoBehaviour
         handsDetection = GetComponentInChildren<HandsDetection>();
         tutorialVideo = GetComponentInChildren<TutorialVideo>();
         
-        SceneManager.sceneLoaded += (arg0, mode) =>
+        SceneManager.sceneLoaded += (scene, mode) =>
         {
             anim = GameObject.FindGameObjectWithTag("Animator").GetComponent<Animator>();
+
+            // Set state when scene is changing
+            switch (scene.name)
+            {
+                case "Paintings":
+                    ChangeState(GameState.Paintings);
+                    break;
+                case "Statues":
+                    ChangeState(GameState.Statues);
+                    break;
+            }
         };
     }
 
@@ -88,8 +99,10 @@ public class GameManager : MonoBehaviour
             case GameState.Loading:
                 break;
             case GameState.Paintings:
+                _instance.anim.SetTrigger(Main);
                 break;
             case GameState.Statues:
+                _instance.anim.SetTrigger(Main);
                 break;
             default:
                 throw new ArgumentOutOfRangeException();

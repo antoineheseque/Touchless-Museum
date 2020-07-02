@@ -6,7 +6,6 @@ public class SwitchSceneButton : MonoBehaviour
     [SerializeField] private Animator anim = null;
     public void OnClickButton()
     {
-        Debug.Log("Button clicked!");
         anim.SetTrigger(levelName);
         SceneLoader.LoadScene(levelName);
     }
