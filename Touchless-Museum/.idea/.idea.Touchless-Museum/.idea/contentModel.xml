@@ -520,21 +520,28 @@
         </e>
         <e p="Project" t="Include">
           <e p="Scripts" t="Include">
-            <e p="DontDestroy.cs" t="Include" />
             <e p="Enums" t="Include">
               <e p="GameState.cs" t="Include" />
             </e>
-            <e p="GameManager.cs" t="Include" />
-            <e p="HandPalmDetection.cs" t="Include" />
-            <e p="HandsDetection.cs" t="Include" />
+            <e p="Hands System" t="Include">
+              <e p="HandsDetection.cs" t="Include" />
+            </e>
             <e p="LoadingText.cs" t="Include" />
-            <e p="SceneLoader.cs" t="Include" />
+            <e p="Painting" t="Include">
+              <e p="ActualizePaintingText.cs" t="Include" />
+              <e p="Paintings.cs" t="Include" />
+            </e>
             <e p="ScriptableObjects" t="Include">
               <e p="PaintingScriptableObject.cs" t="Include" />
             </e>
             <e p="SwitchSceneButton.cs" t="Include" />
-            <e p="TimeChecker.cs" t="Include" />
             <e p="TutorialVideo.cs" t="Include" />
+            <e p="Utility" t="Include">
+              <e p="DontDestroy.cs" t="Include" />
+              <e p="GameManager.cs" t="Include" />
+              <e p="SceneLoader.cs" t="Include" />
+              <e p="TimeChecker.cs" t="Include" />
+            </e>
           </e>
         </e>
         <e p="TextMesh Pro" t="Include">

@@ -1,0 +1,12 @@
+newmtl IE_Example_Black_Matte
+Kd 0 0 0
+d 1
+
+newmtl IE_Example_Light_Gray_Matte
+Kd 0.8161765 0.8161765 0.8161765
+d 1
+
+newmtl Red
+Kd 0.7735849 0.09852257 0.09852257
+d 1
+

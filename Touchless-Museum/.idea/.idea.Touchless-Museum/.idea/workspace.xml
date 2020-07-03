@@ -20,63 +20,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c4beaa9-32d7-4b3c-b91f-f42478eed120" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Paintings/DescriptionPanel.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Paintings/DescriptionPanel.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Paintings/DescriptionPanel.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Paintings/DescriptionPanel.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Paintings/Easel.mtl" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Paintings/Easel.mtl.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Paintings/Easel.obj" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Paintings/Easel.obj.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Datas/Paintings/Painting_01.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Datas/Paintings/Painting_01.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors/Brown.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors/Brown.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors/DarkBrown.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors/DarkBrown.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors/DarkGrey.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors/DarkGrey.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors/Grey.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors/Grey.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors/White.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors/White.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors/WhiteNotWhite.mat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors/WhiteNotWhite.mat.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Camera.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Camera/CM StateDrivenCamera1.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Camera/CM StateDrivenCamera1.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Camera/Cinemachine.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Camera/Cinemachine.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Camera/Main Camera.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Camera/Main Camera.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/DescriptionPanel.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/DescriptionPanel.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Easel.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Easel.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/LeapMotion.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/LeapMotion/Leap Motion &amp; Hands.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/LeapMotion/Leap Motion &amp; Hands.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/MainEnvironment.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/MainEnvironment.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/ScriptableObjects/PaintingScriptableObject.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Paintings/LeftSupport.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Paintings/LeftSupport.mtl.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Paintings/LeftSupport.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Paintings/LeftSupport.obj.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Paintings/RightSupport.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Paintings/RightSupport.mtl.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Paintings/RightSupport.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Paintings/RightSupport.obj.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/LeftSupport.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/LeftSupport.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Paintings.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Paintings/Painting_01.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Paintings/Painting_01.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Paintings/Painting_02.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Paintings/Painting_02.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/RightSupport.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/RightSupport.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Hands System.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Hands System/HandsDetection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Hands System/HandsDetection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Painting.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Painting/ActualizePaintingText.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Painting/ActualizePaintingText.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Painting/Paintings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Utility.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Utility/DontDestroy.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Utility/DontDestroy.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Utility/GameManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Utility/GameManager.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Utility/SceneLoader.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Utility/SceneLoader.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Utility/TimeChecker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Utility/TimeChecker.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/indexLayout.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/Default Material Palette.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/Default Material Palette.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Cinemachine/MainCamera Animator.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Cinemachine/MainCamera Animator.controller" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Materials/Environment.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Materials/Environment/Brown.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Materials/Environment/Brown.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Materials/Environment/White.mat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Materials/Environment/White.mat.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Prefabs/Paintings.meta" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Prefabs/Statues.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Datas/Paintings/Painting_01.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Datas/Paintings/Painting_01.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Fonts/Lato-Regular SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Fonts/Lato-Regular SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Prefabs/LeapMotion/Leap Motion &amp; Hands.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/LeapMotion/Leap Motion &amp; Hands.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Prefabs/MainEnvironment.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/MainEnvironment.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Statues.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/SwitchSceneButton.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scripts/SwitchSceneButton.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/ActualizePaintingText.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/ActualizePaintingText.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/DontDestroy.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/DontDestroy.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/GameManager.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/GameManager.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/HandPalmDetection.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/HandPalmDetection.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/HandsDetection.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/HandsDetection.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/SceneLoader.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/SceneLoader.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/TimeChecker.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/TimeChecker.cs.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,22 +87,26 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/LoadingText.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/Enums/GameState.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/TimeChecker.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/HandPalmDetection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Core/Scripts/Attachments/Editor/AttachmentHandsEditor.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/ScriptableObjects/PaintingScriptableObject.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/DontDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Core/Scripts/Geometry/Collision.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/HandsDetection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Core/Tests/Editor/StructMarshalTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Core/Scripts/Utils/EditorResources.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/Painting/Paintings.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Scripts/SimpleFacingCameraCallbacks.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/Painting/ActualizePaintingText.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/SwitchSceneButton.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/Hands System/HandsDetection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Scripts/SimpleInteractionGlow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/TutorialVideo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Scripts/WorkstationBehaviourExample.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/Utility/SceneLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Core/Scripts/DetectionUtilities/AbstractHoldDetector.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMPro.cginc" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/Utility/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Core/Scripts/Animation/TransformTweenBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/Utility/DontDestroy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Core/Scripts/Hands/HandEnableDisable.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -126,6 +129,9 @@
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/GameManager.cs" />
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/SwitchSceneButton.cs" />
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/ScriptableObjects/PaintingScriptableObject.cs" />
+        <option value="$PROJECT_DIR$/Assets/Project/Scripts/ActualizePaintingText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Project/Scripts/Painting/ActualizePaintingText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Project/Scripts/Painting/Paintings.cs" />
       </list>
     </option>
   </component>
@@ -176,6 +182,10 @@
       <workItem from="1593709876757" duration="1516000" />
       <workItem from="1593715320710" duration="1961000" />
       <workItem from="1593770688736" duration="3321000" />
+      <workItem from="1593786822276" duration="2878000" />
+      <workItem from="1593790695732" duration="4112000" />
+      <workItem from="1593795277178" duration="5675000" />
+      <workItem from="1593803025743" duration="1863000" />
     </task>
     <servers />
   </component>
@@ -203,9 +213,13 @@
     </state>
     <state x="-1069" y="187" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1593614000410" />
     <state x="851" y="187" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1593606319174" />
-    <state x="-1317" y="258" width="714" height="534" key="find.popup" timestamp="1593704949982">
+    <state x="-1317" y="258" width="714" height="534" key="find.popup" timestamp="1593798640194">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1317" y="258" width="714" height="534" key="find.popup/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1593704949982" />
+    <state x="-1317" y="258" width="714" height="534" key="find.popup/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1593798640194" />
+    <state x="-1297" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1593800558284">
+      <screen x="-1920" y="0" width="1920" height="1050" />
+    </state>
+    <state x="-1297" y="227" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1593800558284" />
   </component>
 </project>
