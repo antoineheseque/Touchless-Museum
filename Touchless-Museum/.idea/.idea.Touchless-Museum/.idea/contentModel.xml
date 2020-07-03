@@ -529,6 +529,9 @@
             <e p="HandsDetection.cs" t="Include" />
             <e p="LoadingText.cs" t="Include" />
             <e p="SceneLoader.cs" t="Include" />
+            <e p="ScriptableObjects" t="Include">
+              <e p="PaintingScriptableObject.cs" t="Include" />
+            </e>
             <e p="SwitchSceneButton.cs" t="Include" />
             <e p="TimeChecker.cs" t="Include" />
             <e p="TutorialVideo.cs" t="Include" />

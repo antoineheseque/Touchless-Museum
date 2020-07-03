@@ -1,0 +1,12 @@
+newmtl DarkGrey
+Kd 0.2264151 0.2264151 0.2264151
+d 1
+
+newmtl WhiteNotWhite
+Kd 0.9150943 0.9150943 0.9150943
+d 1
+
+newmtl Grey
+Kd 0.3962264 0.3962264 0.3962264
+d 1
+
