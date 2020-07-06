@@ -8,10 +8,12 @@ public class ActualizePaintingText : MonoBehaviour
     private const float REMOVE_TIME = .5f;
     private const float SHOW_TIME = 2f;
 
-    [SerializeField] private TMP_Text title = null,
-                                      author = null, 
-                                      creationDate = null,
-                                      description = null;
+    [SerializeField] private TMP_Text 
+        title = null,
+        author = null,
+        creationDate = null,
+        description = null,
+        location = null;
 
     private Coroutine showTextCoroutine = null;
 
@@ -60,6 +62,8 @@ public class ActualizePaintingText : MonoBehaviour
                     author.text = author.text.Remove(author.text.Length - 1) + (char)(rdmChar+32);
                 if (creationDate.text.Length > 0)
                     creationDate.text = creationDate.text.Remove(creationDate.text.Length - 1) + (char)(rdmChar+32);
+                if (location.text.Length > 0)
+                    location.text = location.text.Remove(location.text.Length - 1) + (char)(rdmChar+32);
                 if (description.text.Length > 0)
                     description.text = description.text.Remove(description.text.Length - 1) + (char)(rdmChar+32);
                 yield return null;
@@ -73,6 +77,8 @@ public class ActualizePaintingText : MonoBehaviour
                 author.text = author.text.Remove(author.text.Length - 1);
             if (creationDate.text.Length > 0)
                 creationDate.text = creationDate.text.Remove(creationDate.text.Length - 1);
+            if (location.text.Length > 0)
+                location.text = location.text.Remove(location.text.Length - 1);
             if (description.text.Length > 0)
                 description.text = description.text.Remove(description.text.Length - 1);
         }
@@ -85,7 +91,7 @@ public class ActualizePaintingText : MonoBehaviour
         yield return StartCoroutine(RemoveAllText());
         
         // Show text line by line
-        int characterCount = painting.paintingName.Length + painting.author.Length + painting.author.Length + painting.description.Length;
+        int characterCount = painting.paintingName.Length + painting.author.Length + painting.author.Length + painting.location.Length + painting.description.Length;
         int currentCharacter = 0;
         float timePerCharacter = SHOW_TIME / characterCount;
         float timer = timePerCharacter;
@@ -138,12 +144,19 @@ public class ActualizePaintingText : MonoBehaviour
         }
         index -= painting.creationDate.Length;
         
+        if (index < painting.location.Length)
+        {
+            character = painting.location[index];
+            return location;
+        }
+        index -= painting.location.Length;
+        
         if (index < painting.description.Length)
         {
             character = painting.description[index];
             return description;
         }
-        
+
         character = ' ';
         return null;
     }

@@ -8,4 +8,5 @@ public class PaintingScriptableObject : ScriptableObject
     public string author = "Antoine";
     public string creationDate = "2020";
     public string description = "";
+    public string location = "";
 }

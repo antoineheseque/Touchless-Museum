@@ -1,4 +1,8 @@
-newmtl Example_Ground_Material
-Kd 0.5294118 0.5294118 0.5294118
+newmtl Blue_Standard
+Kd 0.06277031 0.3987479 0.9485294
+d 1
+
+newmtl Red
+Kd 0.7735849 0.09852257 0.09852257
 d 1
 

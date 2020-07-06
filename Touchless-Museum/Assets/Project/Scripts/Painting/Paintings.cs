@@ -1,8 +1,4 @@
-﻿using System;
-using Leap;
-using Leap.Unity;
-using UnityEditor;
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Paintings : MonoBehaviour
 {
@@ -12,12 +8,6 @@ public class Paintings : MonoBehaviour
 
     
     private int currentIndex = 0;
-    private LeapProvider leapProvider;
-
-    private void Awake()
-    {
-        leapProvider = FindObjectOfType<LeapProvider>();
-    }
 
     private void Start()
     {

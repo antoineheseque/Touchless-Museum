@@ -533,6 +533,12 @@
             </e>
             <e p="ScriptableObjects" t="Include">
               <e p="PaintingScriptableObject.cs" t="Include" />
+              <e p="StatuesScriptableObject.cs" t="Include" />
+            </e>
+            <e p="Statues" t="Include">
+              <e p="ActualizeStatuesText.cs" t="Include" />
+              <e p="RotatingStand.cs" t="Include" />
+              <e p="Statues.cs" t="Include" />
             </e>
             <e p="SwitchSceneButton.cs" t="Include" />
             <e p="TutorialVideo.cs" t="Include" />
