@@ -90,6 +90,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6744198746610004718}
+  - component: {fileID: 1473592852}
   m_Layer: 0
   m_Name: Easel
   m_TagString: Untagged
@@ -104,14 +105,33 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6256596832112257108}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0.25, z: 12}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 5542333588866755178}
   m_Father: {fileID: 0}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: -90.00001, z: -15.000001}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1473592852
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6256596832112257108}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2cb986a81d36ac64eac9bff6373f1399, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  actualizer: {fileID: 0}
+  paintings:
+  - {fileID: 11400000, guid: 1570b4b6b232d5641bf95470a5afd941, type: 2}
+  - {fileID: 11400000, guid: b06c6a2f75d4e1d4488106ebc9f4ff28, type: 2}
+  - {fileID: 11400000, guid: 90c9cefed69e7714a86716ed32069fa5, type: 2}
+  - {fileID: 11400000, guid: a74a1148ecd4b6f42b67d15eeee04485, type: 2}
+  paintingAnchor: {fileID: 6490404469478975640}
 --- !u!1 &6490404469478975643
 GameObject:
   m_ObjectHideFlags: 0

@@ -1,0 +1,9 @@
+newmtl IE_Example_Black_Matte
+Kd 0 0 0
+d 1
+
+newmtl 01
+map_Kd 01.png
+Kd 1 1 1
+d 1
+

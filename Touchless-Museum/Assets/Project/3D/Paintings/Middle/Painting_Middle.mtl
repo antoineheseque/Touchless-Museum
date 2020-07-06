@@ -1,0 +1,9 @@
+newmtl IE_Example_Black_Matte
+Kd 0 0 0
+d 1
+
+newmtl 04
+map_Kd C:/Projects/Unity3D/Touchless-Museum/Touchless-Museum/Assets/Project/2D/Paintings/04.png
+Kd 1 1 1
+d 1
+
