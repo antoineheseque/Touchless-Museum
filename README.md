@@ -19,5 +19,5 @@ To start the application, you have to unzip the file named **Touchless-Museum.zi
 ## Open the project
 The project is using the **LeapMotion SDK v4.5.0** with **Unity v2019.4.0f1 LTS**
 
-#LICENCE
+# LICENCE
 The project is under the **Apache Licence, Version 2.0** ([more informations here](https://github.com/antoineheseque/Touchless-Museum/blob/master/LICENSE))
