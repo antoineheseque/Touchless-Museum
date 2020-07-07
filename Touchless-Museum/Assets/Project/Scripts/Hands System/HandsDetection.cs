@@ -14,19 +14,22 @@ namespace Project.Scripts
         
         private Image loadingImage = null;
 
+        private GameObject container = null;
+        
         private LeapProvider leapProvider;
         private void OnEnable()
         {
-            handsText.enabled = true;
-            loadingImage.enabled = true;
+            container.SetActive(true);
             loadingImage.fillAmount = 0;
             handsText.text = "Please put both hands in front of you";
         }
 
         private void Awake()
         {
-            handsText = GetComponentInChildren<TMP_Text>();
-            loadingImage = GetComponentInChildren<Image>();
+            container = transform.GetChild(0).gameObject;
+            
+            handsText = container.GetComponentInChildren<TMP_Text>();
+            loadingImage = container.GetComponentsInChildren<Image>()[1];
 
             SceneManager.sceneLoaded += (arg0, mode) =>
             {
@@ -37,8 +40,7 @@ namespace Project.Scripts
         private void OnDisable()
         {
             // Reset everything
-            handsText.enabled = false;
-            loadingImage.enabled = false;
+            container.SetActive(false);
         }
 
         private void LateUpdate()

@@ -1,0 +1,12 @@
+newmtl Blue
+Kd 0 0.5996131 1
+d 1
+
+newmtl Blue2
+Kd 0 0.8105297 1
+d 1
+
+newmtl IE_Example_Black_Matte
+Kd 0 0 0
+d 1
+

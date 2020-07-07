@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 004be92d25f5d02488797739770edd01, type: 3}
+  m_Name: Statue_02
+  m_EditorClassIdentifier: 
+  statueName: L'Homme cubique
+  gameObject: {fileID: 390906813900360240, guid: 05b54d4cae882dd449d3204d52729d9d,
+    type: 3}
+  author: Mr. Dupont
+  creationDate: 2005
+  description: "L'Homme cubique est une oeuvre Fran\xE7aise sans pr\xE9c\xE9dent"
+  location: South Hall

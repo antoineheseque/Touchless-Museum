@@ -8432,7 +8432,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh184338
+  m_Name: pb_Mesh24748
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -12375,7 +12375,7 @@ Mesh:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: pb_Mesh183962
+  m_Name: pb_Mesh47496
   serializedVersion: 10
   m_SubMeshes:
   - serializedVersion: 2
@@ -12593,6 +12593,8 @@ MonoBehaviour:
   actualizer: {fileID: 1024885310807643039}
   statues:
   - {fileID: 11400000, guid: 100ab6e3f9722984eb7923bca59df991, type: 2}
+  - {fileID: 11400000, guid: 2f3a0f8c84cf40740bebeb5b07634e1c, type: 2}
+  - {fileID: 11400000, guid: 1dadf64b0488264479a6e181a0160e38, type: 2}
   paintingAnchor: {fileID: 80758928}
 --- !u!33 &710293413
 MeshFilter:
@@ -61467,7 +61469,7 @@ Light:
   m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
-  m_BoundingSphereOverride: {x: 0, y: 3.862e-41, z: 0, w: -1}
+  m_BoundingSphereOverride: {x: 0, y: -28.444275, z: 5.51e-43, w: -27.137543}
   m_UseBoundingSphereOverride: 0
   m_ShadowRadius: 0
   m_ShadowAngle: 0
@@ -63660,7 +63662,7 @@ MonoBehaviour:
   m_fontSizeMin: 5
   m_fontSizeMax: 20
   m_fontStyle: 1
-  m_textAlignment: 1032
+  m_textAlignment: 264
   m_characterSpacing: 0
   m_wordSpacing: 0
   m_lineSpacing: 0

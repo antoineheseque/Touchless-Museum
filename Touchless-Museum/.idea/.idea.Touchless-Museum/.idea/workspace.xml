@@ -20,46 +20,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c4beaa9-32d7-4b3c-b91f-f42478eed120" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Datas/Statues/Statue_01.asset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Datas/Statues/Statue_01.asset.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Statues.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Statues/Statue_01.prefab" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Statues/Statue_01.prefab.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/ScriptableObjects/StatuesScriptableObject.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Statues.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Statues/ActualizeStatuesText.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Statues/ActualizeStatuesText.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Statues/RotatingStand.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Statues/RotatingStand.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Statues/Statues.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Statues/02.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Statues/02/Statue_02.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Statues/02/Statue_02.mtl.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Statues/02/Statue_02.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Statues/02/Statue_02.obj.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Statues/03.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Statues/03/Statue_03.mtl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Statues/03/Statue_03.mtl.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Statues/03/Statue_03.obj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/3D/Statues/03/Statue_03.obj.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Datas/Statues/Statue_02.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Datas/Statues/Statue_02.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Datas/Statues/Statue_03.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Datas/Statues/Statue_03.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors/Blue.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors/Blue.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors/Blue2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Materials/Colors/Blue2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Statues/Statue_02.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Statues/Statue_02.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Statues/Statue_03.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/Statues/Statue_03.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Modeling/Statues/Statue_02.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Modeling/Statues/Statue_02.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Modeling/Statues/Statue_03.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Modeling/Statues/Statue_03.unity.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Touchless-Museum/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/ProBuilder Data/Default Material Palette.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ProBuilder Data/Default Material Palette.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/3D/Statues/01/Statue_01.mtl" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/3D/Statues/01/Statue_01.mtl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/3D/Statues/01/Statue_01.obj" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/3D/Statues/01/Statue_01.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Datas/Paintings/Painting_01.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Datas/Paintings/Painting_01.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Datas/Paintings/Painting_02.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Datas/Paintings/Painting_02.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Datas/Paintings/Painting_03.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Datas/Paintings/Painting_03.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Datas/Paintings/Painting_04.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Datas/Paintings/Painting_04.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Prefabs/DescriptionPanel.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Prefabs/DescriptionPanel.prefab" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Main.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Main/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main/LightingData.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Main/Lightmap-0_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main/Lightmap-0_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Main/Lightmap-0_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main/Lightmap-0_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Main/Lightmap-1_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main/Lightmap-1_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Main/Lightmap-1_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main/Lightmap-1_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Main/Lightmap-2_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main/Lightmap-2_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Main/Lightmap-2_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Main/Lightmap-2_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Modeling/Statues/Statue_01.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Modeling/Statues/Statue_01.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/LightingData.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/Lightmap-0_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/Lightmap-0_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/Lightmap-0_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/Lightmap-0_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/Lightmap-1_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/Lightmap-1_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/Lightmap-1_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/Lightmap-1_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/Lightmap-2_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/Lightmap-2_comp_dir.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/Lightmap-2_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Paintings/Lightmap-2_comp_light.exr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Statues.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/LightingData.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/LightingData.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/Lightmap-0_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/Lightmap-0_comp_dir.png" afterDir="false" />
@@ -68,10 +57,10 @@
       <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/Lightmap-1_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/Lightmap-1_comp_light.exr" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/Lightmap-2_comp_dir.png" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/Lightmap-2_comp_dir.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/Lightmap-2_comp_light.exr" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scenes/Statues/Lightmap-2_comp_light.exr" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/Painting/ActualizePaintingText.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Painting/ActualizePaintingText.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/Painting/Paintings.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Painting/Paintings.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/ScriptableObjects/PaintingScriptableObject.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scripts/ScriptableObjects/PaintingScriptableObject.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/Hands System/HandsDetection.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Hands System/HandsDetection.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Project/Scripts/Utility/GameManager.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Project/Scripts/Utility/GameManager.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/Packages/com.unity.probuilder/Settings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,6 +92,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Core/Tests/Editor/StructMarshalTests.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/Statues/Statues.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Scripts/SimpleFacingCameraCallbacks.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Core/Scripts/Geometry/LocalShapes/LocalBox.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/Common Example Assets/Scripts/SimpleInteractionGlow.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Project/Scripts/TutorialVideo.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Plugins/LeapMotion/Modules/InteractionEngine/Examples/6. Dynamic UI/Scripts/WorkstationBehaviourExample.cs" root0="FORCE_HIGHLIGHTING" />
@@ -137,6 +127,8 @@
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/Statues/Statues.cs" />
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/Statues/ActualizePaintingText.cs" />
         <option value="$PROJECT_DIR$/Assets/Project/Scripts/Statues/ActualizeStatuesText.cs" />
+        <option value="$PROJECT_DIR$/Assets/Project/Scripts/Hands System/HandsDetection.cs" />
+        <option value="$PROJECT_DIR$/Assets/Project/Scripts/Utility/GameManager.cs" />
       </list>
     </option>
   </component>
@@ -191,7 +183,8 @@
       <workItem from="1593790695732" duration="4112000" />
       <workItem from="1593795277178" duration="5675000" />
       <workItem from="1593803025743" duration="1863000" />
-      <workItem from="1594049045725" duration="6961000" />
+      <workItem from="1594049045725" duration="7623000" />
+      <workItem from="1594124894352" duration="4696000" />
     </task>
     <servers />
   </component>
@@ -223,10 +216,10 @@
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
     <state x="-1151" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594056772919" />
-    <state x="-1317" y="258" width="714" height="534" key="find.popup" timestamp="1594057352607">
+    <state x="-1317" y="258" width="714" height="534" key="find.popup" timestamp="1594062607121">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>
-    <state x="-1317" y="258" width="714" height="534" key="find.popup/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594057352607" />
+    <state x="-1317" y="258" width="714" height="534" key="find.popup/-1920.0.1920.1050/0.0.1920.1050@-1920.0.1920.1050" timestamp="1594062607121" />
     <state x="-1297" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1593800558284">
       <screen x="-1920" y="0" width="1920" height="1050" />
     </state>

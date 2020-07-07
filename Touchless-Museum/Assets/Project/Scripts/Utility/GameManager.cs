@@ -1,4 +1,5 @@
 ﻿using System;
+using Leap.Unity;
 using Project.Scripts;
 using UnityEngine;
 using UnityEngine.SceneManagement;
@@ -16,6 +17,9 @@ public class GameManager : MonoBehaviour
 
     private static readonly int Main = Animator.StringToHash("Main");
 
+    //[SerializeField] private Renderer leftHand = null, rightHand = null;
+    //private LeapProvider leapProvider;
+    
     private void Awake()
     {
         if (_instance == null)
@@ -26,7 +30,8 @@ public class GameManager : MonoBehaviour
         SceneManager.sceneLoaded += (scene, mode) =>
         {
             anim = GameObject.FindGameObjectWithTag("Animator").GetComponent<Animator>();
-
+            //leapProvider = FindObjectOfType<LeapProvider>();
+            
             // Set state when scene is changing
             switch (scene.name)
             {
@@ -39,6 +44,20 @@ public class GameManager : MonoBehaviour
             }
         };
     }
+
+    /*private void OnGUI()
+    {
+        Frame frame = leapProvider.CurrentFrame;
+        GUI.Label(new Rect(5,5,200,60), "Hands detected: " + frame.Hands.Count);
+
+        for (int i = 0; i < frame.Hands.Count; i++)
+        {
+            Hand hand = leapProvider.CurrentFrame.Hands[i];
+            GUI.Label(new Rect(5,65+60*i,100,60), "Hand detected: " + (hand.IsLeft ? "Left" : hand.IsRight ? "Right" : "None"));
+            GUI.Label(new Rect(210,65+60*i,100,60), "Hand visible: " + (hand.IsLeft ? leftHand.enabled.ToString() : hand.IsRight ? rightHand.enabled.ToString() : "Unknown"));
+        }
+        
+    }*/
 
     private void Start()
     {
@@ -63,11 +82,8 @@ public class GameManager : MonoBehaviour
                 _instance.anim.SetTrigger(Main);
                 break;
             case GameState.Main:
-                break;
             case GameState.Loading:
-                break;
             case GameState.Paintings:
-                break;
             case GameState.Statues:
                 break;
             default:
@@ -95,7 +111,6 @@ public class GameManager : MonoBehaviour
                 if (!tutorialVideo.isActiveAndEnabled) tutorialVideo.enabled = true;
                 break;
             case GameState.Main:
-                break;
             case GameState.Loading:
                 break;
             case GameState.Paintings:
