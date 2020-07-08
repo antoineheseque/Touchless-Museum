@@ -1,5 +1,8 @@
 ﻿using UnityEngine;
 
+/// <summary>
+/// Statue scriptableObject
+/// </summary>
 [CreateAssetMenu(fileName = "Painting", menuName = "ScriptableObjects/StatuesScriptableObject")]
 public class StatuesScriptableObject : ScriptableObject
 {

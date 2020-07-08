@@ -1,5 +1,8 @@
 ﻿using UnityEngine;
 
+/// <summary>
+/// Linked with ActualizeStatuesText.cs, used to control the statue shown
+/// </summary>
 public class Statues : MonoBehaviour
 {
     [SerializeField] private ActualizeStatuesText actualizer = null;
@@ -10,25 +13,25 @@ public class Statues : MonoBehaviour
 
     private void Start()
     {
-        ShowPainting(currentIndex);
+        ShowStatue(currentIndex);
     }
 
     private void Update()
     {
         if (Input.GetKeyDown(KeyCode.A))
         {
-            ShowPainting((currentIndex+1)%statues.Length);
+            ShowStatue((currentIndex+1)%statues.Length);
         }
     }
 
-    private void ShowPainting(int index)
+    private void ShowStatue(int index)
     {
         RemovePainting();
 
         // Add painting and change text details
         actualizer.ChangeText(statues[index]);
 
-        GameObject statue = Instantiate(statues[index].gameObject, paintingAnchor, false);
+        Instantiate(statues[index].gameObject, paintingAnchor, false);
         currentIndex = index;
     }
 
@@ -36,12 +39,12 @@ public class Statues : MonoBehaviour
     {
         int index = currentIndex-1;
         if (index < 0) index = statues.Length-1;
-        ShowPainting(index);
+        ShowStatue(index);
     }
 
     public void SwitchRight()
     {
-        ShowPainting((currentIndex+1)%statues.Length);
+        ShowStatue((currentIndex+1)%statues.Length);
     }
 
     private void RemovePainting()

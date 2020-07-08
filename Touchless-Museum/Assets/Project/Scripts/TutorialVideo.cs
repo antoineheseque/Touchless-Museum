@@ -1,9 +1,10 @@
-﻿using System;
-using System.Collections;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.Video;
 
+/// <summary>
+/// Play the tutorial video after both hands are detected, and switch to main when the video is finished
+/// </summary>
 public class TutorialVideo : MonoBehaviour
 {
     private VideoPlayer videoPlayer = null;

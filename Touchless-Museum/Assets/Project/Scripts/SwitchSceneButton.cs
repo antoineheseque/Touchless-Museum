@@ -1,5 +1,8 @@
 ﻿using UnityEngine;
 
+/// <summary>
+/// When a click is detected on a button, switch to Loading state and move camera to the loading position.
+/// </summary>
 public class SwitchSceneButton : MonoBehaviour
 {
     [SerializeField] private string levelName = "Main";

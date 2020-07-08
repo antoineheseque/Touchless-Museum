@@ -1,25 +1,19 @@
 ﻿using UnityEngine;
 
+/// <summary>
+/// Linked with ActualizePaingingText.cs, used to control the painting shown
+/// </summary>
 public class Paintings : MonoBehaviour
 {
     [SerializeField] private ActualizePaintingText actualizer = null;
     [SerializeField] private PaintingScriptableObject[] paintings = null;
     [SerializeField] private Transform paintingAnchor = null;
 
-    
     private int currentIndex = 0;
 
     private void Start()
     {
         ShowPainting(currentIndex);
-    }
-
-    private void Update()
-    {
-        if (Input.GetKeyDown(KeyCode.A))
-        {
-            ShowPainting((currentIndex+1)%paintings.Length);
-        }
     }
 
     private void ShowPainting(int index)
@@ -29,7 +23,7 @@ public class Paintings : MonoBehaviour
         // Add painting and change text details
         actualizer.ChangeText(paintings[index]);
 
-        GameObject painting = Instantiate(paintings[index].gameObject, paintingAnchor, false);
+        Instantiate(paintings[index].gameObject, paintingAnchor, false);
         currentIndex = index;
     }
 

@@ -1,8 +1,10 @@
-﻿
-using System.Collections;
+﻿using System.Collections;
 using TMPro;
 using UnityEngine;
 
+/// <summary>
+/// Actualize paintings (both texts and gameObjects)
+/// </summary>
 public class ActualizePaintingText : MonoBehaviour
 {
     private const float REMOVE_TIME = .5f;

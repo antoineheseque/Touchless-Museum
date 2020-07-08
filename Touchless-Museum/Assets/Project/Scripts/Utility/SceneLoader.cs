@@ -2,6 +2,9 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
+/// <summary>
+/// Load scenes with a camera move/fade effect
+/// </summary>
 public class SceneLoader : MonoBehaviour
 {
     private GameObject text = null;

@@ -1,9 +1,11 @@
-﻿using System;
-using Leap.Unity;
+﻿using Leap.Unity;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
+/// <summary>
+/// Check inactivity and reset game after TIME_DETECT seconds
+/// </summary>
 public class TimeChecker : MonoBehaviour
 {
     private LeapProvider leapProvider;

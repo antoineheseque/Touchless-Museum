@@ -2,6 +2,9 @@
 using TMPro;
 using UnityEngine;
 
+/// <summary>
+/// Actualize statue (both texts and gameObjects)
+/// </summary>
 public class ActualizeStatuesText : MonoBehaviour
 {
     private const float REMOVE_TIME = .5f;

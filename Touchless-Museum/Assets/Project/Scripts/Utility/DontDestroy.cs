@@ -1,5 +1,8 @@
 ﻿using UnityEngine;
 
+/// <summary>
+/// DontDestroyOnLoad
+/// </summary>
 public class DontDestroy : MonoBehaviour
 {
     private static DontDestroy _instance;

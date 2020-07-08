@@ -3,6 +3,9 @@ using System.Collections;
 using TMPro;
 using UnityEngine;
 
+/// <summary>
+/// Loading text with variable dots
+/// </summary>
 public class LoadingText : MonoBehaviour
 {
     private TMP_Text text;
