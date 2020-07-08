@@ -1,4 +1,5 @@
 # Touchless-Museum
+Use your hands to view the museum's artworks and get more information about them in a fun and practical way in Touchless Museum, an interactive experience.
 
 # Idea
 The idea comes from the arrival of the virus at the beginning of 2020, and the fact that you have to touch a touch screen to be able to interact with it, and this in public places. 
